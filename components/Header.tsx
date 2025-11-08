@@ -9,8 +9,9 @@ const Header: React.FC = () => {
         <div className="bg-green-600 rounded-full p-2">
             <PlantIcon className="w-6 h-6 text-white" />
         </div>
+        
         <div>
-            <h1 className="text-lg font-bold text-gray-800">Plant Doctor AI</h1>
+            <h1 className="text-lg font-bold text-gray-800">Curix</h1>
             <p className="text-sm text-gray-500">Smart Plant Health Assistant</p>
         </div>
       </div>
