@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Plant Doctor AI",
+  "name": "Copy Of Plant Doctor AI",
   "description": "An AI-powered smart assistant to help you keep your plants thriving. Analyze plant health by taking a photo, detect diseases, and get expert care tips.",
   "requestFramePermissions": [
     "camera"
